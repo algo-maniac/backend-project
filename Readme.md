@@ -1,6 +1,5 @@
 My first large scale backend project
 
-- [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
 
 1. Production grade backend project.
 2. Proper routes and controllers for signup, login, change password, get current user, update user details, update avatar/coverImage, logout.
